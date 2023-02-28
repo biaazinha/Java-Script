@@ -8,4 +8,4 @@ console.log(informacoes[1]);
 const objetoPessoa = {
     nome: "José",
     idade: 32,
-};
+}; 

@@ -1,0 +1,17 @@
+Java 
+Script
+Object      JSON
+Notation 
+
+Notação de objeto java scrit
+
+
+-Não existem variáveis
+-Chaves das propriedades têm aspas duplas (" ")
+-Arrays e objetos aninhados podem existir
+-Restrição de trailing comma
+-Funções não são permitidas, precisamos omiti-las do nosso objeto;
+-Comentários não são permitidos;
+-Suporta apenas tipos primitivos (string, number, boolean, null);
+-O undefined também não é permitido;
+-Algumas estruturas mais complexas, como datas ou a escrita em Regex, também podem não ser aceitas.

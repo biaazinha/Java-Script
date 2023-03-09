@@ -8,4 +8,4 @@ function ganhoPorHora(salario, horasTrabalhadasNoMes) {
 
 }
 
-//ganhoPorHora(3000,176);
+//ganhoPorHora(3000,176); 

@@ -6,4 +6,4 @@ const pessoa = {
 pessoa.telefone = "1122233344";   //adicionei
 pessoa.nome = "Luma"    //mudei
 
-console.log(pessoa);
+console.log(pessoa); 

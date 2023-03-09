@@ -16,5 +16,5 @@ function insertionSort(lista){
     }
     console.log(lista);
 }
-
+ 
 insertionSort(livros);
